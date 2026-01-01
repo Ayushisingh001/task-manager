@@ -30,4 +30,4 @@ Password: pw123456
 Role: user
 
 ## Postman Collection
-You can import this [Postman collection](Task Manager API - v1.postman_collection.json) to test all APIs quickly.
+You can import this [Postman collection-Task Manager API -v1](Task Manager API - v1.postman_collection.json) to test all APIs quickly.
